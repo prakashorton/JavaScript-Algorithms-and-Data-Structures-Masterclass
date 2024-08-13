@@ -1,0 +1,29 @@
+
+Few more questions. 
+
+React 
+
+Extending a functional component.
+RenderProps 
+Build and deployment of a react project 
+	• normal way
+	• Cloud way (aws)
+Different styling ways with React JS 
+
+JS
+
+How to cache a js file for a year. 
+
+
+Micro-frontend
+
+	• Sharing resources across multiple repos 
+	• Poly-repo vs mono repo
+	
+	
+General 
+
+Configuring exclude packages in the webpack config 
+BFF - backend for frontend - Handling data from multiple endpoints, how to effectively handle slow servers. 
+Test application speed in a different region (say Africa) Real User Monitoring (RUM)
+CSS Modules.
